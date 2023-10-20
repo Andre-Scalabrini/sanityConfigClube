@@ -1,8 +1,10 @@
+
+
 export default
 {
-    name: 'clube',
+    name: 'preclube',
     type: 'document',
-    title: 'Clube',
+    title: 'Pré Clube',
     fields: [
         {
             title: 'Description',
