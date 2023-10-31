@@ -1,25 +1,24 @@
-
 export default {
-    name: 'equipe2',
-    type: 'document',
-    title: 'Equipe 2',
-    fields: [
-      {
-        name: 'name',
-        type: 'string',
-        title: 'Nome'
-      },
-      
-      {
-        name: 'cargo',
-        type: 'string',
-        title: 'Cargo'
-      },
+  name: 'equipe2',
+  type: 'document',
+  title: 'Equipe',
+  fields: [
+    {
+      name: 'name',
+      type: 'string',
+      title: 'Nome'
+    },
 
-      {
-        name: 'foto',
-        type: 'image',
-        title: 'Foto'
-      }
-    ]
-  }
+    {
+      name: 'cargo',
+      type: 'string',
+      title: 'Cargo'
+    },
+
+    {
+      name: 'foto',
+      type: 'string',
+      title: 'Foto'
+    }
+  ]
+}
