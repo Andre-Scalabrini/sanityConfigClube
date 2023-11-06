@@ -16,11 +16,11 @@ export default {
       {
         name: 'conteudo',
         type: 'string',
-        title: 'Conteúdo'
+        title: 'Descricao'
       },
       {
         name: 'imagem',
-        type: 'string',
+        type: 'image',
         title: 'Imagem da Notícia'
       },
       {

@@ -7,7 +7,7 @@ export default {
       {
         name: 'name',
         type: 'string',
-        title: 'Name'
+        title: 'Titulo'
       },
       {
         name: 'description',
@@ -16,8 +16,8 @@ export default {
       },
       {
         name: 'imagem',
-        type: 'string',
-        title: 'Imagem (URL)'
+        type: 'image',
+        title: 'Imagem'
       }
     ]
   }

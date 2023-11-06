@@ -12,4 +12,4 @@ import premios from "./premios";
 import preclube from "./preclube";
 import diasdasemana from "./horariosdiasdasemana"
 
-export const schemaTypes = [horarios,certificados,noticias,duvidas,equipe2, lista, descricao_metodos, laboratorios, clube, preclube,diasdasemana]
+export const schemaTypes = [horarios,certificados,noticias,duvidas,equipe2, premios, descricao_metodos, laboratorios, clube, preclube,diasdasemana]
