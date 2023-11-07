@@ -2,12 +2,12 @@
 export default {
     name: 'premios',
     type: 'document',
-    title: 'Premios',
+    title: 'Prêmios',
     fields: [
       {
         name: 'name',
         type: 'string',
-        title: 'Titulo'
+        title: 'Título'
       },
       {
         name: 'description',

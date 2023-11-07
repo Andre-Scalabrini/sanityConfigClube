@@ -1,5 +1,3 @@
-
-
 export default
 {
     name: 'preclube',
@@ -7,7 +5,7 @@ export default
     title: 'Pré Clube',
     fields: [
         {
-            title: 'Description',
+            title: 'Descrição',
             name: 'description',
             type: 'string'
         },
@@ -18,7 +16,7 @@ export default
         },
         {
              
-        title: 'Horarios',
+        title: 'Horários',
         name: 'horarios',
         type: 'reference',
         to: [{type: 'horarios'}]

@@ -1,7 +1,7 @@
 export default {
     name: 'noticia',
     type: 'document',
-    title: 'Noticia',
+    title: 'Notícia',
     fields: [
       {
         name: 'titulo',
@@ -11,12 +11,12 @@ export default {
       {
         name: 'subtitulo',
         type: 'string',
-        title: 'Sub título'
+        title: 'Subtítulo'
       },
       {
         name: 'conteudo',
         type: 'string',
-        title: 'Descricao'
+        title: 'Descrição'
       },
       {
         name: 'imagem',

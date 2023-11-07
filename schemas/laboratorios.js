@@ -1,12 +1,12 @@
 export default{
     name: 'laboratorios',
     type: 'document',
-    title: 'Laboratorios',
+    title: 'Laboratórios',
     fields: [
       {
         name: 'laboratorio',
         type: 'string',
-        title: 'Laboratorio'
+        title: 'Laboratório'
       },
       
       {
