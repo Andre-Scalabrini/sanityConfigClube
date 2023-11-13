@@ -7,7 +7,7 @@ import descricaoMetodos from "./metodo";
 import clube from "./clube";
 import equipe from "./equipe";
 import premios from "./premios";
-import preclube from "./preClube";
+import preclube from "./preclube";
 import diasDaSemana from "./horariosDiasDaSemana"
 
 export const schemaTypes = [
